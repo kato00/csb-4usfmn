@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "https://.github.io/csb-4usfmn/static/js/main.79a3525b.chunk.js",
-    "main.js.map": "https://.github.io/csb-4usfmn/static/js/main.79a3525b.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-4usfmn/static/js/runtime-main.e2f9d19f.js",
-    "runtime-main.js.map": "https://.github.io/csb-4usfmn/static/js/runtime-main.e2f9d19f.js.map",
-    "static/js/2.5a8f4a5a.chunk.js": "https://.github.io/csb-4usfmn/static/js/2.5a8f4a5a.chunk.js",
-    "static/js/2.5a8f4a5a.chunk.js.map": "https://.github.io/csb-4usfmn/static/js/2.5a8f4a5a.chunk.js.map",
-    "index.html": "https://.github.io/csb-4usfmn/index.html",
-    "static/js/2.5a8f4a5a.chunk.js.LICENSE.txt": "https://.github.io/csb-4usfmn/static/js/2.5a8f4a5a.chunk.js.LICENSE.txt"
+    "main.js": "https://kato00.github.io/csb-4usfmn/static/js/main.79a3525b.chunk.js",
+    "main.js.map": "https://kato00.github.io/csb-4usfmn/static/js/main.79a3525b.chunk.js.map",
+    "runtime-main.js": "https://kato00.github.io/csb-4usfmn/static/js/runtime-main.3338f6b5.js",
+    "runtime-main.js.map": "https://kato00.github.io/csb-4usfmn/static/js/runtime-main.3338f6b5.js.map",
+    "static/js/2.5a8f4a5a.chunk.js": "https://kato00.github.io/csb-4usfmn/static/js/2.5a8f4a5a.chunk.js",
+    "static/js/2.5a8f4a5a.chunk.js.map": "https://kato00.github.io/csb-4usfmn/static/js/2.5a8f4a5a.chunk.js.map",
+    "index.html": "https://kato00.github.io/csb-4usfmn/index.html",
+    "static/js/2.5a8f4a5a.chunk.js.LICENSE.txt": "https://kato00.github.io/csb-4usfmn/static/js/2.5a8f4a5a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e2f9d19f.js",
+    "static/js/runtime-main.3338f6b5.js",
     "static/js/2.5a8f4a5a.chunk.js",
     "static/js/main.79a3525b.chunk.js"
   ]
